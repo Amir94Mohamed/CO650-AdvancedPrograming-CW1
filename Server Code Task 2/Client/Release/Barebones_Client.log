@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\amirm\Downloads\sloankelly-youtube-source-repository-1eadfb1295e1\sloankelly-youtube-source-repository-1eadfb1295e1\cpp\networking\BarebonesClient\Barebones_Client\main.cpp(19,55): error C2065: 'end1': undeclared identifier
+C:\Users\amirm\Downloads\sloankelly-youtube-source-repository-1eadfb1295e1\sloankelly-youtube-source-repository-1eadfb1295e1\cpp\networking\BarebonesClient\Barebones_Client\main.cpp(27,64): error C2065: 'end1': undeclared identifier
+C:\Users\amirm\Downloads\sloankelly-youtube-source-repository-1eadfb1295e1\sloankelly-youtube-source-repository-1eadfb1295e1\cpp\networking\BarebonesClient\Barebones_Client\main.cpp(42,68): error C2065: 'end1': undeclared identifier
+C:\Users\amirm\Downloads\sloankelly-youtube-source-repository-1eadfb1295e1\sloankelly-youtube-source-repository-1eadfb1295e1\cpp\networking\BarebonesClient\Barebones_Client\main.cpp(70,61): error C2065: 'end1': undeclared identifier

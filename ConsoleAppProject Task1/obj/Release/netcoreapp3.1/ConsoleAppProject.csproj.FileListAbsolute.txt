@@ -1,0 +1,11 @@
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/bin/Release/netcoreapp3.1/ConsoleAppProject.deps.json
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/bin/Release/netcoreapp3.1/ConsoleAppProject.runtimeconfig.json
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/bin/Release/netcoreapp3.1/ConsoleAppProject.runtimeconfig.dev.json
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/bin/Release/netcoreapp3.1/ConsoleAppProject.dll
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/bin/Release/netcoreapp3.1/ConsoleAppProject.pdb
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/obj/Release/netcoreapp3.1/ConsoleAppProject.AssemblyInfoInputs.cache
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/obj/Release/netcoreapp3.1/ConsoleAppProject.AssemblyInfo.cs
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/obj/Release/netcoreapp3.1/ConsoleAppProject.csproj.CoreCompileInputs.cache
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/obj/Release/netcoreapp3.1/ConsoleAppProject.dll
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/obj/Release/netcoreapp3.1/ConsoleAppProject.pdb
+/Users/amirmohamed/Desktop/CO453 A. P./ConsoleAppProject/obj/Release/netcoreapp3.1/ConsoleAppProject.genruntimeconfig.cache

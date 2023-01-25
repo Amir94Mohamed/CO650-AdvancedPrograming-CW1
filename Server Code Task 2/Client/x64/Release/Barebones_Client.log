@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\amirm\Downloads\sloankelly-youtube-source-repository-1eadfb1295e1\sloankelly-youtube-source-repository-1eadfb1295e1\cpp\networking\BarebonesClient\Barebones_Client\main.cpp(61,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Barebones_Client.vcxproj -> C:\Users\amirm\Downloads\sloankelly-youtube-source-repository-1eadfb1295e1\sloankelly-youtube-source-repository-1eadfb1295e1\cpp\networking\BarebonesClient\x64\Release\Barebones_Client.exe

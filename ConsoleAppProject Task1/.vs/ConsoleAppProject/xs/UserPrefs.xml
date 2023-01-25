@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{74E3F79A-1A5B-41E0-9BD2-7DDEF7306226}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleAppProject" expanded="True">
+            <Node name="ConsoleAppProject" expanded="True" />
+            <Node name="WebApps" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="_ViewImports.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppProject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
